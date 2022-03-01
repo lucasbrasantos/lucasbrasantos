@@ -1,4 +1,4 @@
-## Hello There -> sou Lucas Braga Santos!! 👋
+## Hello There -> Eu sou o Lucas Braga Santos!! 👋
 
 <div align="center">
   <a href="https://github.com/lucasbrasantos">
