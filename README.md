@@ -15,6 +15,8 @@
     <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">    
     <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
     <img align="center" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino"/>
+    <a href="https://www.gimp.org/"><img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg"></a>
+
 </p>
 
 <p align="center">
