@@ -1,4 +1,12 @@
-# Hello There -> Eu sou o Lucas Braga Santos!! 👋
+# 👋 Olá, eu sou Lucas Braga Santos!
+
+
+🖥️ **Desenvolvedor Front-End** | Técnico em Desenvolvimento de Sistemas 🖥️
+
+> "Transformando ideias em realidade através do código, uma linha por vez. 🚀"
+
+---
+
 
 <div align="center">
   <a href="https://github.com/lucasbrasantos">
