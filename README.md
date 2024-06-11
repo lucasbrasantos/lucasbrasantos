@@ -7,17 +7,13 @@
 
 ---
 
-
-<div align="center">
-  <a href="https://github.com/lucasbrasantos">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucasbrasantos&show_icons=true&theme=blue-green&count_private=false&include_all_commits=true"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/lucasbrasantos">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbrasantos&layout=compact&langs_count=6&theme=gotham"/>
-  </a>
-</div>
-
+<a href="https://github.com/lucasbrasantos" >
+  <div align="center">
+      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucasbrasantos&show_icons=true&theme=blue-green&count_private=false&include_all_commits=true"/>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbrasantos&layout=compact&langs_count=6&theme=gotham"/>
+  </div>
+</a>
   
 ---
 <img align="left" height="150" style="border-radius:50px;" src="coding.gif">
