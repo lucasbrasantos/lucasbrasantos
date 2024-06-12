@@ -10,9 +10,9 @@
 
 <a href="https://github.com/lucasbrasantos">
   <div align="center">
-      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucasbrasantos&show_icons=true&theme=gotham&count_private=true&include_all_commits=true"/>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbrasantos&layout=compact&langs_count=6&theme=gotham"/>
+      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucasbrasantos&show_icons=true&theme=blue-green&count_private=true&include_all_commits=true"/>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbrasantos&layout=compact&langs_count=6&theme=blue-green"/>    
   </div>
 </a>
   
@@ -44,7 +44,7 @@
 <div align="left">
   
   ### 🖥️ **Habilidades Principais** 🖥️
-  <img align="right" src="https://github-profile-trophy.vercel.app/?username=lucasbrasantos&theme=darkhub&row=1&column=4" alt="lucasbrasantos" />
+  <img align="right" src="https://github-profile-trophy.vercel.app/?username=lucasbrasantos&theme=darkhub&row=1&column=3" alt="lucasbrasantos" />
   
   <table>
     <tr>
@@ -65,11 +65,11 @@
     </tr>
   </table>
 </div>
-
+<br>
 <div align="left">
 
   ### 🖥️ **Habilidades em Aprendizado** 🖥️
-  <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=lucasbrasantos&langs_count=8&theme=gotham" alt="lucasbrasantos" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=lucasbrasantos&langs_count=8&theme=blue-green" alt="lucasbrasantos" />
   
   <table>
     <tr>
