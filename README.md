@@ -23,6 +23,7 @@
     <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
     <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg">  
     <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
     <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
     <img align="center" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino"/>
