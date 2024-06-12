@@ -10,7 +10,7 @@
 
 <a href="https://github.com/lucasbrasantos">
   <div align="center">
-      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucasbrasantos&show_icons=true&theme=blue-green&count_private=false&include_all_commits=true"/>
+      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucasbrasantos&show_icons=true&theme=gotham&count_private=true&include_all_commits=true"/>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbrasantos&layout=compact&langs_count=6&theme=gotham"/>
   </div>
@@ -44,7 +44,6 @@
 <div align="left">
   
   ### 🖥️ **Habilidades Principais** 🖥️
-
   <img align="right" src="https://github-profile-trophy.vercel.app/?username=lucasbrasantos&theme=darkhub&row=1&column=4" alt="lucasbrasantos" />
   
   <table>
@@ -70,6 +69,7 @@
 <div align="left">
 
   ### 🖥️ **Habilidades em Aprendizado** 🖥️
+  <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=lucasbrasantos&langs_count=8&theme=gotham" alt="lucasbrasantos" />
   
   <table>
     <tr>
@@ -85,8 +85,9 @@
 
 
 
----
 
+---
+<div align="center">
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -101,4 +102,6 @@
     src="https://raw.githubusercontent.com/lucasbrasantos/lucasbrasantos/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
+</div>
 
