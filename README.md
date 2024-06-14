@@ -1,6 +1,14 @@
-# 👋 Olá, eu sou Lucas Braga Santos!
+---
+<h1 align="center">
+  <a href="https://github.com/lucasbrasantos/lucasbrasantos">
+    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&size=38&duration=4000&pause=700&color=13F7E5&background=98E8FF00&center=true&vCenter=true&random=false&width=1012&height=64&lines=Hello+there!+%F0%9F%91%8B;I'm+Lucas+Braga+Santos+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB">
+  </a>
+</h1>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasbrasantos&label=Profile%20views&color=0e75b6&style=flat" alt="lucasbrasantos" /> </p>
+
+<h3>👋 Olá, sou Lucas Braga Santos!</h3>
 
 🖥️ **Desenvolvedor Front-End** | Técnico em Desenvolvimento de Sistemas 🖥️
 
