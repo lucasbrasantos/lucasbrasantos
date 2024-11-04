@@ -10,7 +10,7 @@
 
 <h3>👋 Olá, sou Lucas Braga Santos!</h3>
 
-🖥️ **Desenvolvedor Front-End** | Técnico em Desenvolvimento de Sistemas 🖥️
+🖥️ **Desenvolvedor Full-Stack** | Técnico em Desenvolvimento de Sistemas 🖥️
 
 > "Transformando ideias em realidade através do código, uma linha por vez. 🚀"
 
