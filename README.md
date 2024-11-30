@@ -27,17 +27,28 @@
 ---
 <img align="left" height="150" style="border-radius:50px;" src="coding.gif">
 <p align="center">
-    <a href="https://php.net/"><img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></a>
+    <!-- JavaScript and Frameworks -->
     <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+    <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
     <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg">  
-    <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+    <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+    <!-- Backend -->
+    <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+    <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+    <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+    <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+    <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <!-- Databases -->
+    <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+    <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+    <!-- DevOps & Tools -->
+    <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+    <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
     <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-    <img align="center" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino"/>
-    <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/inkscape/inkscape-original.svg" alt="inkscape"/>
-    <a href="https://www.gimp.org/"><img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg"></a>
 </p>
+
+
+
 
 <p align="center">
     <a href="https://instagram.com/lucas_bragasantos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -56,22 +67,28 @@
   
   <table>
     <tr>
-      <td><strong>Frontend:</strong></td>
-      <td>HTML, CSS, Sass/Scss, JavaScript, React</td>
+        <td><strong>Linguagens:</strong></td>
+        <td>JavaScript, TypeScript, Java, C#, Python</td>
     </tr>
     <tr>
-      <td><strong>Backend:</strong></td>
-      <td>Node.js, Express.js, Firebase, MySQL</td>
+        <td><strong>Frontend:</strong></td>
+        <td>React, Next.js</td>
     </tr>
     <tr>
-      <td><strong>Ferramentas:</strong></td>
-      <td>Nodemon, Cors, Git</td>
+        <td><strong>Backend Frameworks:</strong></td>
+        <td>Node.js, Spring Boot</td>
     </tr>
     <tr>
-      <td><strong>Design:</strong></td>
-      <td>Figma, Gimp, Inkscape</td>
+        <td><strong>Bancos de Dados:</strong></td>
+        <td>PostgreSQL, MySQL</td>
     </tr>
-  </table>
+    <tr>
+        <td><strong>DevOps & Ferramentas:</strong></td>
+        <td>Docker, Kubernetes, Git</td>
+    </tr>
+</table>
+
+
 </div>
 <br>
 <div align="left">
@@ -82,11 +99,11 @@
   <table>
     <tr>
       <td><strong>Frontend:</strong></td>
-      <td>Tailwind</td>
+      <td>Angular, Tailwind</td>
     </tr>
     <tr>
       <td><strong>Backend:</strong></td>
-      <td>Python, Java, C#</td>
+      <td>Larabel, .Net</td>
     </tr>
   </table>
 </div>
