@@ -102,8 +102,8 @@
       <td>Angular, Tailwind</td>
     </tr>
     <tr>
-      <td><strong>Backend:</strong></td>
-      <td>Larabel, .Net</td>
+      <td><strong>Misc:</strong></td>
+      <td>Laravel, .Net, Azure</td>
     </tr>
   </table>
 </div>
