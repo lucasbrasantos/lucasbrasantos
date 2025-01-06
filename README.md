@@ -6,7 +6,12 @@
 </h1>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasbrasantos&label=Profile%20views&color=0e75b6&style=flat" alt="lucasbrasantos" /> </p>
+<span align="left">
+  <img src="https://komarev.com/ghpvc/?username=lucasbrasantos&label=Profile%20views&color=0e75b6&style=flat" alt="lucasbrasantos" />
+  <a href="https://wakatime.com/@2887dae3-71d6-4898-a6c3-387f5a939340">
+    <img src="https://wakatime.com/badge/user/2887dae3-71d6-4898-a6c3-387f5a939340.svg" alt="Total time coded since Jun 12 2024" />
+  </a>
+</span>
 
 <h3>👋 Olá, sou Lucas Braga Santos!</h3>
 
