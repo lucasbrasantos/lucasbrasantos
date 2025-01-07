@@ -85,7 +85,7 @@
     </tr>
     <tr>
         <td><strong>Bancos de Dados:</strong></td>
-        <td>PostgreSQL, MySQL</td>
+        <td>PostgreSQL, MySQL, Firebase</td>
     </tr>
     <tr>
         <td><strong>DevOps & Ferramentas:</strong></td>
