@@ -30,7 +30,9 @@
 </a>
   
 ---
+
 <img align="left" height="150" style="border-radius:50px;" src="coding.gif">
+
 <p align="center">
     <!-- JavaScript and Frameworks -->
     <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
