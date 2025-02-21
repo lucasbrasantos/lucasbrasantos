@@ -100,7 +100,7 @@
 <div align="left">
 
   ### 🖥️ **Habilidades em Aprendizado** 🖥️
-  <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=lucasbrasantos&langs_count=5&theme=blue-green" alt="lucasbrasantos" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=lucasbrasantos&langs_count=6&theme=blue-green" alt="lucasbrasantos" />
   
   <table>
     <tr>
