@@ -31,7 +31,7 @@
   
 ---
 
-<img align="left" height="150" style="border-radius:50px;" src="coding-dog.gif">
+<img align="left" height="150" style="border-radius:50px;" src="coding.gif">
 
 <p align="center">
     <!-- JavaScript and Frameworks -->
