@@ -35,7 +35,6 @@
 
 <p align="center">
     <!-- JavaScript and Frameworks -->
-    <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
     <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
@@ -44,6 +43,7 @@
     <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
     <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+    <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/dot-net/dot-net-original-wordmark.svg">    
     <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <!-- Databases -->
     <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
@@ -52,6 +52,8 @@
     <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
     <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
     <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+    <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/azure/azure-original.svg">
+    <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/azuredevops/azuredevops-original.svg">
 </p>
 
 
@@ -74,23 +76,23 @@
   <table>
     <tr>
         <td><strong>Linguagens:</strong></td>
-        <td>JavaScript, TypeScript, Java, C#, Python</td>
+        <td>TypeScript, Java, C#, PHP, Python</td>
     </tr>
     <tr>
         <td><strong>Frontend:</strong></td>
-        <td>React, Next.js</td>
+        <td>React, Next.js, Angular</td>
     </tr>
     <tr>
         <td><strong>Backend Frameworks:</strong></td>
-        <td>Node.js, Spring Boot</td>
+        <td>Node.js, Spring Boot, Asp.Net</td>
     </tr>
     <tr>
         <td><strong>Bancos de Dados:</strong></td>
-        <td>PostgreSQL, MySQL, Firebase</td>
+        <td>PostgreSQL, MySQL, Firebase, Microsoft Sql Server</td>
     </tr>
     <tr>
         <td><strong>DevOps & Ferramentas:</strong></td>
-        <td>Docker, Kubernetes, Git</td>
+        <td>Docker, Kubernetes, Git, Azure</td>
     </tr>
 </table>
 
@@ -104,12 +106,8 @@
   
   <table>
     <tr>
-      <td><strong>Frontend:</strong></td>
-      <td>Angular, Tailwind</td>
-    </tr>
-    <tr>
       <td><strong>Misc:</strong></td>
-      <td>Laravel, .Net, Azure</td>
+      <td>Flutter, Dart, Rust</td>
     </tr>
   </table>
 </div>
