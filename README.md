@@ -80,7 +80,7 @@
     </tr>
     <tr>
         <td><strong>Frontend:</strong></td>
-        <td>React, Next.js, Angular</td>
+        <td>React, Next.js, Flutter, Angular</td>
     </tr>
     <tr>
         <td><strong>Backend Frameworks:</strong></td>
@@ -88,7 +88,7 @@
     </tr>
     <tr>
         <td><strong>Bancos de Dados:</strong></td>
-        <td>PostgreSQL, MySQL, Firebase, Microsoft Sql Server</td>
+        <td>PostgreSQL, Microsoft Sql Server, MySQL, Firebase</td>
     </tr>
     <tr>
         <td><strong>DevOps & Ferramentas:</strong></td>
@@ -107,7 +107,7 @@
   <table>
     <tr>
       <td><strong>Misc:</strong></td>
-      <td>Flutter, Dart, Rust</td>
+      <td>Rust</td>
     </tr>
   </table>
 </div>
