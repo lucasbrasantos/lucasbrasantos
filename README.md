@@ -80,7 +80,7 @@
   <table>
     <tr>
         <td><strong>Linguagens:</strong></td>
-        <td>TypeScript, Java, C#, PHP, Python</td>
+        <td>Java, C#, TypeScript, PHP, Python</td>
     </tr>
     <tr>
         <td><strong>Frontend:</strong></td>
@@ -92,7 +92,7 @@
     </tr>
     <tr>
         <td><strong>Bancos de Dados:</strong></td>
-        <td>PostgreSQL, Microsoft Sql Server, MySQL, Firebase</td>
+        <td>Microsoft Sql Server, PostgreSQL, MySQL, Firebase</td>
     </tr>
     <tr>
         <td><strong>DevOps & Ferramentas:</strong></td>
