@@ -13,11 +13,13 @@
   </a>
 </span>
 
-<h3>👋 Olá, sou Lucas Braga Santos!</h3>
+<h3>👋 Hey, I'm Lucas Braga Santos!</h3>
 
-🖥️ **Desenvolvedor Full-Stack** | Técnico em Desenvolvimento de Sistemas 🖥️
+💻 **Full-Stack | All-in-One Developer** 💻
 
-> "Transformando ideias em realidade através do código, uma linha por vez. 🚀"
+I enjoy building software end to end... from frontend and mobile apps to backend services, web apps, databases, cloud infrastructure, automation, and AI.
+
+> Always exploring new technologies, experimenting with ideas, and turning them into real projects...
 
 ---
 
